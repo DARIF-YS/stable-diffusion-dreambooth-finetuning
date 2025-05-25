@@ -1,10 +1,10 @@
 ## Fine-tuning de Stable Diffusion avec DreamBooth pour la génération d’images personnalisées
 
 <p align="center">
-  <img src="https://github.com/DARIF-YS/stable-diffusion-dreambooth-finetuning/blob/main/lionATLS1.png" alt="Lion de l'Atlas 1" width="25%" height="180"/>
-  <img src="https://github.com/DARIF-YS/stable-diffusion-dreambooth-finetuning/blob/main/drf1.png" alt="Image personnalisée 1" width="25%"  height="180"/>
-  <img src="https://github.com/DARIF-YS/stable-diffusion-dreambooth-finetuning/blob/main/lionATLS2.png" alt="Lion de l'Atlas 2" width="25%" height="180"/>
-  <img src="https://github.com/DARIF-YS/stable-diffusion-dreambooth-finetuning/blob/main/drf2.png" alt="Image personnalisée 2" width="25%"  height="180"/>
+  <img src="https://github.com/DARIF-YS/stable-diffusion-dreambooth-finetuning/blob/main/lionATLS1.png" alt="Lion de l'Atlas 1" width="180" height="180"/>
+  <img src="https://github.com/DARIF-YS/stable-diffusion-dreambooth-finetuning/blob/main/drf1.png" alt="Image personnalisée 1" width="180"  height="180"/>
+  <img src="https://github.com/DARIF-YS/stable-diffusion-dreambooth-finetuning/blob/main/lionATLS2.png" alt="Lion de l'Atlas 2" width="180" height="180"/>
+  <img src="https://github.com/DARIF-YS/stable-diffusion-dreambooth-finetuning/blob/main/drf2.png" alt="Image personnalisée 2" width="180"  height="180"/>
 </p>
 
 Ce projet explore la personnalisation de modèles de diffusion via **DreamBooth**, une technique de fine-tuning développée par Google Research. Il s'appuie sur le modèle **Stable Diffusion** pour générer des images uniques à partir de simples descriptions textuelles.
