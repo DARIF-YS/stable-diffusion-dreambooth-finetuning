@@ -25,6 +25,7 @@ L’objectif est de permettre la génération d’images fidèles à un sujet sp
 - Rapport : [PDF](https://www.google.com/url?q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1AmewKyz4PrcuZxbQweYKf_p0YON5wlFE%2Fview%3Fusp%3Dsharing)
 
 ───────────────
+
 **Author:** [Yassine Darif](https://www.linkedin.com/in/darif-yassine)
 
 
