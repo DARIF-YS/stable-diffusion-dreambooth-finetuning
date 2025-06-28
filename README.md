@@ -1,4 +1,4 @@
-## Projet : Fine-tuning de Stable Diffusion avec DreamBooth
+## Fine-tuning de Stable Diffusion avec DreamBooth
 
 <p>
   <img src="https://github.com/DARIF-YS/stable-diffusion-dreambooth-finetuning/blob/main/lionATLS1.png" alt="Lion de l'Atlas 1" width="180" height="180"/>
@@ -24,7 +24,7 @@ L’objectif est de permettre la génération d’images fidèles à un sujet sp
 - Notebook : [Lien Colab](https://colab.research.google.com/drive/1yg8qJY-hBhB54NhDIh2fjYSRKwyLXKjd?usp=sharing)
 - Rapport : [PDF](https://www.google.com/url?q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1AmewKyz4PrcuZxbQweYKf_p0YON5wlFE%2Fview%3Fusp%3Dsharing)
 
---
+---
 **Author:** [Yassine Darif](https://www.linkedin.com/in/darif-yassine)
 
 
